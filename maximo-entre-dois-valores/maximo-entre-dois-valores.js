@@ -1,5 +1,5 @@
 /*Escreva uma função que usa dois número
- e retorna o maior enbtre eles*/
+ e retorna o maior entre eles*/
 
  let a = 10;
  let b = 10;

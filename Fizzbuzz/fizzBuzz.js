@@ -2,7 +2,7 @@
 // divisível por 3 => Fizz
 // divisível por 5 => Buzz
 // divisível por 3 e 5 => FizzBuzz
-// não é divisivel por 3 ou 5 => entrada 
+// não é divisível por 3 ou 5 => entrada 
 // não é número retorna não é um número
 
 const resultado = fizzBuzz(15); //passar o valor aqui()
